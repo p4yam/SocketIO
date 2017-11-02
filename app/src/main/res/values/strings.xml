@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KChat</string>
+    <string name="enter_a_nickname">Enter a Nickname</string>
+    <string name="join_chat">Join Chat</string>
+    <string name="enter_a_chat_message">Enter a chat message</string>
+    <string name="sending_chat_message">sending chat message</string>
+    <string name="is_typing">is typing</string>
+</resources>
